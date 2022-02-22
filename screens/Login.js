@@ -44,8 +44,7 @@ render (){
                     <Text style={styles.loginTxt}>Login</Text>
                 </TouchableOpacity>
                 </View>
-                {/* <View style={styles.btnContainer}>
-            </View> */}
+               
         </View>
     );
 }
